@@ -1,0 +1,33 @@
+hr{
+  height: 3px;
+  color: #388697;
+  background-color: #388697;
+  border: none;
+}
+
+table{
+  background-color: #B5FFE1;
+}
+
+input[type="text"],textarea, [type="datetime"],[type="number"], [type="Date"], [type="email"]{
+  background-color: #B5FFE1;
+}
+
+body{
+  border-style: solid;
+    border-width: 5px;
+    border-left-width: 15px;
+    border-right-width: 15px;
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+    border-color:#388697;
+}
+input[type="Submit"]{
+  background-color:#388697;
+  border-color:black;
+  font-style: normal;
+  height:5em;
+  width:10em;
+}
